@@ -1,5 +1,9 @@
 node_modules
-bin/
-obj/
+TestProject1/bin/
+TestProject2/bin/
+TestProject3/bin/
+TestProject1/obj/
+TestProject2/obj/
+TestProject3/obj/
 .vs/
 *.user
